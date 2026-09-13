@@ -55,10 +55,16 @@ permalink: /capstone/shoreline-volunteer/
     <div class="ocs__grid-cell ocs__grid-cell--accent">
         <strong>Homelessness Hotspot</strong>
         <p>Selecting the "volunteer" option shows a homelessness hotspot map highlighting the most concentrated homeless areas and the places most in need of volunteers, directing them to greater need instead of random centers and automating the process instead of a human contacting each volunteer.</p>
+        <a class="ocs__btn alert-green fill small" href="https://shorelinecs.org/volunteer/">
+            Official Website
+        </a>
     </div>
     <div class="ocs__grid-cell">
         <strong>Volunteer Shift Calendar</strong>
         <p>Volunteers can see which shift slots are already taken instead of being contacted by a team member, and fewer available spots create urgency that encourages more people to sign up.</p>
+        <a class="ocs__btn alert-yellow fill small" href="https://nkasse12.github.io/shoreline-group-project/">
+            Ideation Page
+        </a>
     </div>
 
     <div class="ocs__grid-cell ocs__grid-cell--accent">
