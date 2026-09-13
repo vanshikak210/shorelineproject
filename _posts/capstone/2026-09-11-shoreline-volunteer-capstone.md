@@ -111,6 +111,9 @@ permalink: /capstone/shoreline-volunteer/
     <div class="ocs__grid-cell ocs__grid-cell--accent">
         <strong>Hsu-Cheng Lin</strong>
         <p>Technologist/Developer</p>
+        <a class="ocs__btn alert-green iridescent fill small" href="https://github.com/HC-Lin329">
+            GitHub
+        </a>
     </div>
 </div>
 
